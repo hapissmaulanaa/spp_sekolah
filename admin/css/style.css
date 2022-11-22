@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Roboto:ital,wght@1,100&display=swap');
+
+body{
+    font-family: 'Fredoka', sans-serif;
+}
+
+.btn-color-theme{
+    color: white !important;
+    background-color: #5800FF;
+}
+
+.btn-outline-theme{
+    border: 1px solid #5800FF;
+    color: #5800FF !important;
+}
+
+.text-theme{
+    color: #5800FF;
+}
+
+a:hover{
+    color: #5800FF;
+}
+
+.border-radius-10{
+    border-radius: 10px;
+}
